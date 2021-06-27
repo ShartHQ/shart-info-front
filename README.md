@@ -19,6 +19,6 @@ yarn build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### TODO
-[] ADD LOADER
-[] ADD TIME
-[] CHNAGE LAYOUT STYLE
+- [ ] ADD LOADER
+- [ ] ADD TIME
+- [ ] CHNAGE LAYOUT STYLE
